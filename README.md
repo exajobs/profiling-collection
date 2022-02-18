@@ -5,7 +5,7 @@
 
 ## `About Profiling`
 
-## Table of Contents
+## `Table of Contents`
 
 - [1. System Overview](#1-system-overview)
 - [2. Runntime Platfom](#2-runntime-platfom)
@@ -17,7 +17,7 @@
 - [8. License](#8-license)
 - [9. Contributing](#9-contributing)
 
-## 1. System Overview
+## 1. `System Overview`
 
 - [top](https://www.booleanworld.com/guide-linux-top-command/) - Allows users to monitor processes and system resource usage on Linux. It is one of the most useful tools in a sysadmin's toolbox, and it comes pre-installed on every distribution.
 - [htop](https://support.cloudways.com/system-monitoring-using-htop-command/) - Command line utility that allows you to interactively monitor your system's vital resources or server's processes in real time.
@@ -33,7 +33,7 @@
 - [Cpuusage](https://github.com/d99kris/cpuusage) - Instrumentation CPU profiler for Linux and macOS applications.
 - [Diago](https://github.com/remeh/diago) - Diago is a visualization tool for profiles and heap snapshots generated with `pprof`.
 
-## 2. Runntime Platfom
+## 2. `Runntime Platfom`
 
 - [conprof](https://github.com/conprof/conprof) - Conprof collects, stores and makes profiles available to be queried over time.
 
