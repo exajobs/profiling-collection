@@ -10,12 +10,12 @@
 
 
 
-## 15. Contributing
+## Contributing
 
 Contributions welcome! Read the [contribution guidelines](contributing.md) first.
 
 
-## 16. License
+## License
 
 MIT License 
 
